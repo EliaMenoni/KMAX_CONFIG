@@ -54,7 +54,3 @@ origin = https://github.com/Guilouz/Creality-Helper-Script.git
 primary_branch = main
 managed_services = klipper
 
-[spoolman]
-server = https://spool.emenoni.eu
-sync_rate = 5
-
