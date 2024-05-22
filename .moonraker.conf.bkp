@@ -55,6 +55,6 @@ primary_branch = main
 managed_services = klipper
 
 [spoolman]
-server = http://spool.emenoni.eu/
+server = spool.emenoni.eu
 sync_rate = 5
 
