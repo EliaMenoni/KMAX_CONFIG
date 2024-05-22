@@ -56,5 +56,5 @@ managed_services = klipper
 
 [spoolman]
 server = https://spool.emenoni.eu/
-sync_rate = 5
+sync_rate = 7
 
